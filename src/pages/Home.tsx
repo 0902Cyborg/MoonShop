@@ -106,11 +106,7 @@ const Home: React.FC = () => {
         </div>
       </section>
 
-      {/* Categories Section */}
-      <Categories />
-
-      {/* Featured Products */}
-      <FeaturedProducts />
+     
 
       {/* CTA Section */}
       <section className="bg-mondoYellow py-16">
